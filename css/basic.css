@@ -1073,3 +1073,7 @@ textarea.error::-webkit-input-placeholder {
 .self-plug {
   color: #2eca7f;
 }
+
+.self-plug:hover {
+  filter: brightness(60%);
+}
